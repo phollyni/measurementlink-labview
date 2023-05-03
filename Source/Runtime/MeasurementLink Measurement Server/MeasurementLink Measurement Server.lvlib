@@ -37,7 +37,9 @@
 		<Item Name="Read Discovery Service Key File.vi" Type="VI" URL="../Helpers/Read Discovery Service Key File.vi"/>
 		<Item Name="Register Configuration and Results.vi" Type="VI" URL="../Helpers/Register Configuration and Results.vi"/>
 		<Item Name="Register to Discovery Service.vi" Type="VI" URL="../Helpers/Register to Discovery Service.vi"/>
+		<Item Name="Supported Data Types.vi" Type="VI" URL="../Helpers/Supported Data Types.vi"/>
 		<Item Name="Validate Configuration Metadata.vi" Type="VI" URL="../Helpers/Validate Configuration Metadata.vi"/>
+		<Item Name="Validate Data Types.vi" Type="VI" URL="../Helpers/Validate Data Types.vi"/>
 	</Item>
 	<Item Name="IMeasurementService.lvclass" Type="LVClass" URL="../Classes/IMeasurementService/IMeasurementService.lvclass"/>
 	<Item Name="MeasurementContext.lvclass" Type="LVClass" URL="../Classes/MeasurementContext/MeasurementContext.lvclass"/>
